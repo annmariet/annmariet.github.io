@@ -1,11 +1,22 @@
 ---
-title: "annmarie_thomson"
+title: "Annmarie Thomson"
+about:
+  template: jolla
+  image: images/headshot.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/annmariet
 ---
 
-This is a Quarto website.
+Hi! My name is Annmarie and I am a research tech with a background in statistics and computer science from the University of British Columbia
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests include Bayesian statistics, biostatistics, and computational approaches for health research.
 
-```{r}
-1 + 1
-```
+## Education
+
+**Bachelor of Science in Statistics**\
+*Specialization in Computer Science*\
+University of British Columbia \| May 2026
+
+-   Dean's Honour List (2024–2025, 2025–2026)

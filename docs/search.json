@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "annmarie_thomson",
+    "title": "Annmarie Thomson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Annmarie and I am a research tech with a background in statistics and computer science from the University of British Columbia\nMy research interests include Bayesian statistics, biostatistics, and computational approaches for health research."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Annmarie Thomson",
+    "section": "Education",
+    "text": "Education\nBachelor of Science in Statistics\nSpecialization in Computer Science\nUniversity of British Columbia | May 2026\n\nDean’s Honour List (2024–2025, 2025–2026)"
   }
 ]
