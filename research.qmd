@@ -1,0 +1,19 @@
+---
+title: "Research"
+format: html
+---
+## Research Experience
+
+### INSPIRE Health & Engineering Lab
+
+Research Assistant | 2026-Present
+
+Research involving wearable sensors, movement analysis,
+and data analysis for understanding mobility and health.
+
+### Urban Nature Design Research Lab
+
+Research Assistant | 2025
+
+Statistical modelling of relationships between urban nature,
+health, and wellbeing.
