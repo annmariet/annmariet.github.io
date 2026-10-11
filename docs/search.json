@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Annmarie Thomson",
-    "section": "",
-    "text": "Hi! My name is Annmarie and I am a research tech with a background in statistics and computer science from the University of British Columbia\nMy research interests include Bayesian statistics, biostatistics, and computational approaches for health research."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Annmarie Thomson",
-    "section": "Education",
-    "text": "Education\nBachelor of Science in Statistics\nSpecialization in Computer Science\nUniversity of British Columbia | May 2026\n\nDean’s Honour List (2024–2025, 2025–2026)"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -33,5 +12,47 @@
     "title": "Research",
     "section": "",
     "text": "Research Assistant | 2026-Present\nResearch involving wearable sensors, movement analysis, and data analysis for understanding mobility and health.\n\n\n\nResearch Assistant | 2025\nStatistical modelling of relationships between urban nature, health, and wellbeing."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Annmarie Thomson",
+    "section": "",
+    "text": "Hi! My name is Annmarie and I am a research tech with a background in statistics and computer science from the University of British Columbia\nMy research interests include Bayesian statistics, biostatistics, and computational approaches for health research."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Annmarie Thomson",
+    "section": "Education",
+    "text": "Education\nBachelor of Science in Statistics\nSpecialization in Computer Science\nUniversity of British Columbia | May 2026\n\nDean’s Honour List (2024–2025, 2025–2026)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications will be listed here."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications will be listed here."
+  },
+  {
+    "objectID": "publications.html#manuscripts-under-review",
+    "href": "publications.html#manuscripts-under-review",
+    "title": "Publications",
+    "section": "Manuscripts Under Review",
+    "text": "Manuscripts Under Review\nManuscripts currently under review will be listed here."
   }
 ]

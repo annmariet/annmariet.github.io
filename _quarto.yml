@@ -7,9 +7,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        icon: house-door-fill
+        aria-label: Home
       - href: research.qmd
         text: Research
+      - href: publications.qmd
+        text: Publications
 
 format:
   html:
