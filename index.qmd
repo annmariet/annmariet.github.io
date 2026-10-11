@@ -1,5 +1,5 @@
 ---
-title: "Annmarie Thomson"
+title: "Home"
 about:
   template: jolla
   image: images/headshot.jpg
